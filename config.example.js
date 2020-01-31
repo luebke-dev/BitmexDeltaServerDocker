@@ -2,7 +2,7 @@
 // Copy me to config.js to use custom settings.
 
 module.exports = {
-  port: 4444,
+  port: 5000,
 
   // If false, will connect to live exchange.
   // Testnet is https://testnet.bitmex.com
